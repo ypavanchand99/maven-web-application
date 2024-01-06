@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>maven-w-app-ss</name>
-	      <url>http://65.1.134.70:8081/repository/maven-w-app-ss/</url>
+	      <url>http://65.1.134.70:8081/repository/maven-w-app-r/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>maven-w-app-r</name>
-	      <url>http://65.1.134.70:8081/repository/maven-w-app-r/</url>
+	      <url>http://65.1.134.70:8081/repository/maven-w-app-ss/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
